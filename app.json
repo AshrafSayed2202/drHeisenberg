@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "drHeisenberg",
+    "slug": "drHeisenberg",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "drHeisenberg"
+}
